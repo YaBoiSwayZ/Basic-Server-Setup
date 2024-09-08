@@ -147,4 +147,3 @@ If you wish to contribute or report issues, feel free to submit a pull request o
 ---
 
 Enjoy automating your server setup!
-```
