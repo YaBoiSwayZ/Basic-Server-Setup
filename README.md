@@ -91,7 +91,7 @@ rollback
 
 1. Download the script and ensure it's executable:
    ```bash
-   chmod +x basic_server_setup.sh
+   chmod +x setup.sh
    ```
 
 2. Run the script with `sudo`:
